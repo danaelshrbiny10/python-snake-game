@@ -1,2 +1,2 @@
-# python-snake-game
-snake game
+# About:
+  - made snake game using python
